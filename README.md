@@ -51,6 +51,12 @@ Criar um arquivo txt com as dependências do projeto
 pip freeze > requirements.txt
 ```
 
+Criar projeto
+
+```
+django-admin startproject setup .
+```
+
 Para executar o servidor Django
 
 ```
