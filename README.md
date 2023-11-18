@@ -14,20 +14,6 @@ Comando para utilizar o ambiente de desenvolvimento criado:
 docker-compose up -d
 ```
 
-## Visual Studio Code
-
-> Caso já tenha o Visual Studio Code instalado em seu sistema operacional, não é necessário seguir os passos abaixo
-
-Aqui estão as instruções para instalar o Visual Studio Code (VSCode) em diferentes sistemas operacionais.
-
-### Windows
-
-1. Acesse o site oficial do VSCode em [https://code.visualstudio.com/](https://code.visualstudio.com/).
-2. Clique no botão de download para Windows.
-3. Execute o instalador que foi baixado (geralmente chamado VSCodeSetup.exe).
-4. Siga as instruções do instalador, aceitando os padrões recomendados, como associação de arquivos, a menos que você tenha preferências específicas.
-5. Após a instalação, inicie o Visual Studio Code a partir do menu Iniciar ou do ícone na área de trabalho.
-
 
 ## Rodando a API Produtos utilizando o framework Django
 
