@@ -18,7 +18,7 @@ docker-compose up -d
 Acessar o diretório django-produtos
 
 ```
-cd /referencial/src/django-produtos
+cd Main/django-produtos
 ```
 
 Criar o ambiente virtual
@@ -31,6 +31,12 @@ Para ativar o ambiente virtual
 
 ```
 source venv/bin/activate
+```
+
+Para Desativar o ambiente virtual
+
+```
+desactivate
 ```
 
 Instalar o Django
