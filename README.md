@@ -30,13 +30,13 @@ python -m venv ./venv
 Para ativar o ambiente virtual
 
 ```
-source venv/bin/activate
+source venv/bin/activate (. venv/bin/activate)
 ```
 
 Para Desativar o ambiente virtual
 
 ```
-desactivate
+deactivate
 ```
 
 Instalar o Django
